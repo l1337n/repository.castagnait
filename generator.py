@@ -7,6 +7,7 @@
 
     SPDX-License-Identifier: GPL-2.0-only
     See LICENSE.txt for more information.
+    PLEASE DO NOT PERVERT THIS TOOL TO DATABROKERS
 """
 
 import os
